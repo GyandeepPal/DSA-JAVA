@@ -16,6 +16,6 @@ public class cherecter {
     public static void main(String[] args) {
         // System.out.println();
         String str = "abc";
-        subset(" ", str);
+        subset("", str);
     }
 }
