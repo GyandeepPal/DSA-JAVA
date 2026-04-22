@@ -1,4 +1,4 @@
-public class main{
+public class grid{
     static void path(String str, int r, int c){
         if(r==1 &&c==1){
             System.out.println(str);
